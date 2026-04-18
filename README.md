@@ -31,7 +31,7 @@ I am currently pursuing my BCA with a heavy focus on **Defensive Security (Blue 
 ## GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sajal2715&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajal2715&layout=compact&theme=tokyonight" />
 </p>
 
 ---
